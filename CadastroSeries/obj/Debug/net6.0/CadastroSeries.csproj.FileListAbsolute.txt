@@ -1,0 +1,15 @@
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.exe
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.deps.json
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.runtimeconfig.json
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.dll
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.pdb
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfo.cs
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.dll
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\refint\CadastroSeries.dll
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.pdb
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.genruntimeconfig.cache
+C:\Users\ALFADEV\Documents\Documentos Pessoais\Curso C#\Cadastro de Series\CadastroSeries\obj\Debug\net6.0\ref\CadastroSeries.dll
